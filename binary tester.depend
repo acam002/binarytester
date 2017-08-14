@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421289803 source:c:\users\kciscisco.9103-tut-332976\desktop\binary tester\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
